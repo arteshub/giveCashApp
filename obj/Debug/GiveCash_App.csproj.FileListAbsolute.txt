@@ -1,0 +1,8 @@
+C:\Users\Бугай\source\repos\GiveCash_App\GiveCash_App\obj\Debug\GiveCash_App.csproj.AssemblyReference.cache
+C:\Users\Бугай\source\repos\GiveCash_App\GiveCash_App\obj\Debug\GiveCash_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Бугай\source\repos\GiveCash_App\GiveCash_App\obj\Debug\GiveCash_App.csproj.CoreCompileInputs.cache
+C:\Users\Бугай\source\repos\GiveCash_App\GiveCash_App\bin\Debug\arteSHub.SoftWareDevelopConsole.exe.config
+C:\Users\Бугай\source\repos\GiveCash_App\GiveCash_App\bin\Debug\arteSHub.SoftWareDevelopConsole.exe
+C:\Users\Бугай\source\repos\GiveCash_App\GiveCash_App\bin\Debug\arteSHub.SoftWareDevelopConsole.pdb
+C:\Users\Бугай\source\repos\GiveCash_App\GiveCash_App\obj\Debug\arteSHub.SoftWareDevelopConsole.exe
+C:\Users\Бугай\source\repos\GiveCash_App\GiveCash_App\obj\Debug\arteSHub.SoftWareDevelopConsole.pdb
