@@ -8,7 +8,7 @@ namespace arteSHub.SoftWareDevelopConsole.Persons
 {
     public class Emploee:Stuff
     {
-        public Emploee(string name) : base(name, 120000)
+        public Emploee(string name, List<TimeRecorder> timeRecorders) : base(name, 120000, timeRecorders)
         {
              
 

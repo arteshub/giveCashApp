@@ -6,7 +6,22 @@ using System.Threading.Tasks;
 
 namespace arteSHub.SoftWareDevelopConsole
 {
-    internal class TimeRecorder
+    public class TimeRecorder
     {
+        public DateTime Date { get;  }
+        public string Name { get;  }
+
+        public byte Hours { get;}
+
+        public string Message { get; }
+
+        public TimeRecorder(DateTime date,string name,byte hours,string message)
+        {
+            Date=date;
+            Name=name;
+            Hours=hours;
+            Message=message;
+
+        }
     }
 }

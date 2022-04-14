@@ -10,12 +10,14 @@ namespace arteSHub.SoftWareDevelopConsole
     {
 
 
-        string max = "Max";
-        public string Name { get; }
 
-        public Person(string name)
+        public string Name { get; }
+        public List<TimeRecorder> TimeRecorders { get; set; }
+
+        public Person(string name, List<TimeRecorder> timeRecorders)
         {
             Name = name;
+            TimeRecorders = timeRecorders;
         }
 
 

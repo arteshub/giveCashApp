@@ -13,6 +13,13 @@ namespace arteSHub.SoftWareDevelopConsole
         /// Кол-во раб. часов в месяце
         /// </summary>
 
-        public const byte WorkHoursInMonth = 160; 
+        public const byte WorkHoursInMonth = 160;
+
+
+        /// <summary>
+        /// Кол-во раб. часов за день
+        /// </summary>  
+
+        public const byte WorkHoursInDay = 8;
     }
 }

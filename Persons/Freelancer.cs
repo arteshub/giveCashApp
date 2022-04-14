@@ -8,7 +8,7 @@ namespace arteSHub.SoftWareDevelopConsole
 {
     public class Freelancer:Person
     {
-        public Freelancer(string name):base(name)
+        public Freelancer(string name, List<TimeRecorder> timeRecorders) :base(name,timeRecorders)
         {
             
         }

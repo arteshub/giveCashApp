@@ -10,7 +10,7 @@ namespace arteSHub.SoftWareDevelopConsole
     {
 
         public decimal MonthSalary { get; }
-        public Stuff(string name, decimal monthSalary) : base(name)
+        public Stuff(string name, decimal monthSalary, List<TimeRecorder> timeRecorders) : base(name,timeRecorders)
         {
             MonthSalary = monthSalary;
         }
